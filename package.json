@@ -62,7 +62,7 @@
     "@jupyterlab/settingregistry": "^3.0.0",
     "@jupyterlab/terminal": "^3.0.0",
     "@jupyterlab/translation": "^3.0.0",
-    "@jupyterlab/ui-components": "^4.0.0",
+    "@jupyterlab/ui-components": "^3.0.0",
     "@lumino/collections": "^1.2.3",
     "@lumino/commands": "^1.12.0",
     "@lumino/coreutils": "^1.5.3",
