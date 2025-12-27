@@ -2254,19 +2254,26 @@
     "@lumino/coreutils" "^1.5.3"
     "@lumino/widgets" "^1.19.0"
 
-"@jupyterlab/nbformat@^3.0.0", "@jupyterlab/nbformat@^3.1.6":
-  version "3.1.6"
-  resolved "https://registry.yarnpkg.com/@jupyterlab/nbformat/-/nbformat-3.1.6.tgz#1551a83b627f42c2d677832200f9e423fb862cf4"
-  integrity sha512-1P4pyVvNTHlIHpydT+Bp9IjIGlT0DNGIf/P9TMgeI/43UFzUcOmdYaWxWDt1S+oUGwwWxawiqS2F7w+YvgH24g==
-  dependencies:
-    "@lumino/coreutils" "^1.5.3"
-
 "@jupyterlab/nbformat@^3.0.0 || ^4.0.0-alpha.21 || ^4.0.0", "@jupyterlab/nbformat@^4.0.0", "@jupyterlab/nbformat@^4.4.4":
   version "4.4.4"
   resolved "https://registry.yarnpkg.com/@jupyterlab/nbformat/-/nbformat-4.4.4.tgz#bf9b5fff2df4072e3be0f1d7c5d4171cf4d12f44"
   integrity sha512-xDCN95X7UB41TXoCwqCVLDGYlJRtkl5PMy9ACDgxxXonIwNoIpmPErg7AdPwn4ISKyI6LexqnV3HoVNy43ZRsA==
   dependencies:
     "@lumino/coreutils" "^2.2.1"
+
+"@jupyterlab/nbformat@^3.1.6":
+  version "3.1.6"
+  resolved "https://registry.yarnpkg.com/@jupyterlab/nbformat/-/nbformat-3.1.6.tgz#1551a83b627f42c2d677832200f9e423fb862cf4"
+  integrity sha512-1P4pyVvNTHlIHpydT+Bp9IjIGlT0DNGIf/P9TMgeI/43UFzUcOmdYaWxWDt1S+oUGwwWxawiqS2F7w+YvgH24g==
+  dependencies:
+    "@lumino/coreutils" "^1.5.3"
+
+"@jupyterlab/nbformat@^3.6.8":
+  version "3.6.8"
+  resolved "https://registry.yarnpkg.com/@jupyterlab/nbformat/-/nbformat-3.6.8.tgz#284c0e5ad6371d48ca2184b44836f8dc51561ec7"
+  integrity sha512-HprEmm1jUJAMFlhFWZOWv8XITXUBK3hRn7kzRft5gdFZ2T7ClpDLMLunobOlJAQOP01H8GBm5Je27KIoukWgfg==
+  dependencies:
+    "@lumino/coreutils" "^1.11.0"
 
 "@jupyterlab/nbformat@^4.5.1":
   version "4.5.1"
@@ -3072,6 +3079,11 @@
     "@lumino/keyboard" "^2.0.4"
     "@lumino/signaling" "^2.1.5"
     "@lumino/virtualdom" "^2.0.4"
+
+"@lumino/coreutils@^1.11.0":
+  version "1.12.1"
+  resolved "https://registry.yarnpkg.com/@lumino/coreutils/-/coreutils-1.12.1.tgz#79860c9937483ddf6cda87f6c2b9da8eb1a5d768"
+  integrity sha512-JLu3nTHzJk9N8ohZ85u75YxemMrmDzJdNgZztfP7F7T7mxND3YVNCkJG35a6aJ7edu1sIgCjBxOvV+hv27iYvQ==
 
 "@lumino/coreutils@^1.11.0 || ^2.0.0", "@lumino/coreutils@^1.11.0 || ^2.2.1", "@lumino/coreutils@^2.1.2", "@lumino/coreutils@^2.2.1":
   version "2.2.1"

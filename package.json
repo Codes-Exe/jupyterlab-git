@@ -56,7 +56,7 @@
     "@jupyterlab/docregistry": "^3.0.0",
     "@jupyterlab/filebrowser": "^4.0.0",
     "@jupyterlab/mainmenu": "^3.0.0",
-    "@jupyterlab/nbformat": "^3.0.0",
+    "@jupyterlab/nbformat": "^3.6.8",
     "@jupyterlab/rendermime": "^4.0.0",
     "@jupyterlab/services": "^6.0.0",
     "@jupyterlab/settingregistry": "^3.0.0",
